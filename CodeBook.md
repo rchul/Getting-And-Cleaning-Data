@@ -1,3 +1,5 @@
+# CodeBook
+
 This code book explaining the purpose of the project and method of tidying the data set.
 
 # Introduction
@@ -21,6 +23,7 @@ x_test : Indicate Activites commited by 21 participants and how many times
 More Information About Raw data included in Reamdme.txt
 
 # Process
+
 1. Organizing and merging data that needs to be use for the project.
 2. Match the columns name file and data given.
 4. Extract only columns that include mean() std() and also meanFeq().
