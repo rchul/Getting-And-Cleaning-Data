@@ -1,4 +1,4 @@
-# Readme
+# Read Me
 
 This is the part of Getting and Cleaning Data class of Coursera
 The script designed to merging and reorganizing the data using R with Data.table and reshap2 Library.
