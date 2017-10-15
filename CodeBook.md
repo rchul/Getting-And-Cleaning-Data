@@ -1,10 +1,10 @@
 This code book explaining the purpose of the project and method of tidying the data set.
 
-#Introduction
+# Introduction
 
 30 Participant using the smart device which capture their movement in 3 dimensional sense and translate to numbers.
 
-#Raw Data
+# Raw Data
 
 features.rxt : Name of the columns for both x_test & x_train
 
@@ -20,7 +20,7 @@ x_test : Indicate Activites commited by 21 participants and how many times
 
 More Information About Raw data included in Reamdme.txt
 
-#Process
+# Process
 1. Organizing and merging data that needs to be use for the project.
 2. Match the columns name file and data given.
 4. Extract only columns that include mean() std() and also meanFeq().
